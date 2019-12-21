@@ -37,8 +37,7 @@ def monopoly_with_third_tier
 	      :random2 => {},
 	      :random3 => {},
 	      :random4 => {},
-	    },
-	    :one_piece_owned => 25,
+	    }
 	  }
 	}
 end
