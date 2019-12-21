@@ -33,7 +33,10 @@ def monopoly_with_third_tier
 	      :random4 => {},
 	    },
 	    :names => {
-	      
+	      :random => {},
+	      :random2 => {},
+	      :random3 => {},
+	      :random4 => {},
 	    }
 	  }
 	}
